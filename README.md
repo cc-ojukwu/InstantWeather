@@ -17,8 +17,9 @@ Make sure you have the following installed on your system:
 
 - [Android Studio](https://developer.android.com/studio) (Narwhal 4 Feature Drop or newer recommended)
 - [Java JDK 11+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or OpenJDK
-- [Gradle](https://gradle.org/) (optional, Android Studio comes with Gradle)
+- [Gradle](https://gradle.org/) (The project requires at least Android Gradle plugin (agp) version 8.9.1 or higher)
 - Internet connection for downloading dependencies
+- If you run into Android Gradle Plugin (agp) issues, easiest fix is to update your Android studio to Narwhal 4 Feature Drop or later
 
 ---
 
