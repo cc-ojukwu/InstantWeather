@@ -103,6 +103,11 @@ private fun TodayForecastView(weatherModel: WeatherUIModel) {
             modifier = Modifier.padding(24.dp),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
+            Text(
+                modifier = Modifier.padding(bottom = 16.dp),
+                text = stringResource(R.string.city),
+                style = Typography.bodyLarge.copy(fontWeight = FontWeight.Bold)
+            )
 
             Text(
                 modifier = Modifier.padding(bottom = 16.dp),

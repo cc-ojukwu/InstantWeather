@@ -1,6 +1,6 @@
 # InstantWeather Android App
 
-InstantWeather is an Android application that provides accurate weather forecasts with a simple and clean UI.
+InstantWeather is an Android application that displays 7 day weather forecasts for Manchester.
 
 ---
 
