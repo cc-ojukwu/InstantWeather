@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Instant Weather</string>
+    <string name="city">Manchester</string>
+    <string name="error_message">Sorry. We cannot fetch data now. Please check your network connection and try again.</string>
+    <string name="retry">Retry</string>
+</resources>
